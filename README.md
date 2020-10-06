@@ -1,1 +1,1 @@
-# https://zhenekq.github.io/calculator-cv/cv
+# https://zhenekq.github.io/calculator-cv
